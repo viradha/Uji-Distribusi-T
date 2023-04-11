@@ -1,2 +1,2 @@
-# Uji-Distribusi-T-Varians-Sama
-Repository untuk Uji Distribusi T Varians Sama
+# Uji-Distribusi-T
+Repository untuk Uji Distribusi T
