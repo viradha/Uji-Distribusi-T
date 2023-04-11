@@ -3,7 +3,6 @@ BB.Sebelum=c(57,69,56,67,55,56,62,67,67,56)
 BB.Sesudah=c(55,70,56,65,54,55,64,65,67)
 data=data.frame(Orang.ke,BB.Sebelum,BB.Sesudah)
 data
-#$ digunakan untuk memasukan variabel
 
 t.test(x=data$BB.Sebelum, y=data$BB.Sesudah,
        alternative = "greater",
